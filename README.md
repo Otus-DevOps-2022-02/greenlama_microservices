@@ -18,3 +18,11 @@ https://hub.docker.com/repository/docker/greenlama/prometheus
 https://hub.docker.com/repository/docker/greenlama/post
 https://hub.docker.com/repository/docker/greenlama/comment
 https://hub.docker.com/repository/docker/greenlama/ui
+
+## ДЗ №16
+- Подготовка окружения
+- Логирование Docker-контейнеров
+- Сбор неструктурированных логов
+- Визуализация логов
+- Сбор структурированных логов
+- Распределенный трейсинг
