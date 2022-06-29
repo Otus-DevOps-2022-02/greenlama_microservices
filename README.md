@@ -89,3 +89,8 @@ kubectl get nodes
 ```
 kubectl --kubeconfig ./admin.conf get nodes
 ```
+
+## ДЗ №20
+- Развернул локальное окружение для работы с Kubernetes
+- Развернул Kubernetes в Yandex Cloud
+- Запустил reddit в Kubernetes

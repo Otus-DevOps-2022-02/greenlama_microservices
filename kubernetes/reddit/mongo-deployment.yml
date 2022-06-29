@@ -21,6 +21,7 @@ spec:
         app: reddit
         component: mongo
         comment-db: "true"
+        post-db: "true"
     spec:
       containers:
       - image: mongo:3.2
