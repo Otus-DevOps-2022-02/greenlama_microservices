@@ -94,3 +94,13 @@ kubectl --kubeconfig ./admin.conf get nodes
 - Развернул локальное окружение для работы с Kubernetes
 - Развернул Kubernetes в Yandex Cloud
 - Запустил reddit в Kubernetes
+
+## ДЗ №21
+- Ingress Controller
+- Ingress
+- Secret
+- TLS
+- LoadBalancer Service
+- Network Policies
+- PersistentVolumes
+- PersistentVolumeClaims
