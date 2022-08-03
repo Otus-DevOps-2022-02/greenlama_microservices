@@ -104,3 +104,8 @@ kubectl --kubeconfig ./admin.conf get nodes
 - Network Policies
 - PersistentVolumes
 - PersistentVolumeClaims
+
+## ДЗ №22
+- Работа с Helm
+- Развертывание Gitlab в Kubernetes
+- Запуск CI/CD конвейера в Kubernetes
